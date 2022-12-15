@@ -1,3 +1,10 @@
+# Simple UI created with Bootstrap
+![Screenshot (11)](https://user-images.githubusercontent.com/105352161/207802480-8843845a-162f-43e2-bff4-2da00fd25e3e.png)
+
+# Get category wise news in real time
+![Screenshot (12)](https://user-images.githubusercontent.com/105352161/207802587-95de3c3c-1247-46a0-b6e4-b1ecc92c76ea.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
