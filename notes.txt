@@ -1,0 +1,5 @@
+npx create reactapp newsapp
+rcc - class based component
+in class based component we use render with return 
+render first compile jsx into html than run it 
+we use state so that our component may change dinamically without reloading the page

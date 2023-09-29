@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 774,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Breakingviews - Geely-backed auto SPAC deal revs up too fast - Reuters",
+            "description": "Li Shufu is in the fast lane again. Geely’s <a href=\"https://www.reuters.com/companies/0175.HK\" target=\"_blank\">(0175.HK)</a> founder who is best known for buying Swedish carmaker Volvo <a href=\"https://www.reuters.com/companies/VOLCARb.ST\" target=\"_blank\">(V…",
+            "url": "https://www.reuters.com/breakingviews/geely-backed-auto-spac-deal-revs-up-too-fast-2022-05-31/",
+            "urlToImage": "https://www.reuters.com/resizer/QY6Cp28cc6Qe5kg_6jGbIDCkRlY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5R5MYYDBXVKVNAMT4HUTPRA2CE.jpg",
+            "publishedAt": "2022-05-31T03:11:00Z",
+            "content": "HONG KONG, May 31 (Reuters Breakingviews) - Li Shufu is in the fast lane again. Geelys (0175.HK) founder who is best known for buying Swedish carmaker Volvo (VOLCARb.ST) has signed up for the largest… [+3183 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Adrian Horton",
+            "title": "Same old true story: why have TV shows turned into Wikipedia entries?",
+            "description": "An overstuffed season of fact-based dramas, from Winning Time to Under the Banner of Heaven to The Staircase, has been more miss than hitLately, I’ve been having what I call based-on-a-true story fatigue. I first used that admittedly inelegant phrase in March…",
+            "url": "https://amp.theguardian.com/tv-and-radio/2022/may/31/same-old-true-story-why-have-tv-shows-turned-into-wikipedia-entries",
+            "urlToImage": "https://i.guim.co.uk/img/media/78729c36a6cf871bdd1bb8b57b71e9c42cbc2dff/0_0_2560_1536/master/2560.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=418a69365577dfcaf8fe2d9677387a36",
+            "publishedAt": "2022-05-31T06:06:10Z",
+            "content": "Lately, Ive been having what I call based-on-a-true story fatigue. I first used that admittedly inelegant phrase in March, when a mini-boom of shows about headlining scandals in relatively recent his… [+8620 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Arsenijs Picugins",
+            "title": "Macbook Gets NVMe SSD With Help Of A BGA-Imitating PCB",
+            "description": "Recently, we stumbled upon a video by [iBoff], adding an M.2 NVMe port to a 2011-2013 MacBook. Apple laptops never came with proper M.2 ports, especially the A1278 – so what’s up? The t…",
+            "url": "https://hackaday.com/2022/05/31/macbook-gets-nvme-ssd-with-help-of-a-bga-imitating-pcb/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2022/05/hadimg_macbook_pcieshim_feat.jpeg",
+            "publishedAt": "2022-05-31T11:00:00Z",
+            "content": "Recently, we stumbled upon a video by [iBoff], adding an M.2 NVMe port to a 2011-2013 MacBook. Apple laptops never came with proper M.2 ports, especially the A1278 – so what’s up? The trick is – deso… [+2154 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Ryan Dinsdale",
+            "title": "Diablo: Immortal Won't Launch in Belgium and the Netherlands Due to Lootbox Laws",
+            "description": "Diablo: Immortal will no longer be released in Belgium or the Netherlands due to lootboxes being illegal in both countries.",
+            "url": "https://www.ign.com/articles/diablo-immortal-launch-belgium-netherlands-lootbox-law",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/03/28/diablo-immortal-1648495505402.jpg?width=1280",
+            "publishedAt": "2022-05-31T10:59:05Z",
+            "content": "Diablo: Immortal will no longer be released in Belgium or the Netherlands due to lootboxes being illegal in both countries.\r\nThe long-awaited mobile (and now PC) game finally arrives on June 2 but de… [+1885 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "MagSafe: Ladeprobleme mit klassischen Qi-Pads",
+            "description": "Apples magnetische Wireless-Charging-Technik ist proprietär, was bei einigen Geräten für Schwierigkeiten sorgt. Manchmal hilft ein Firmware-Update.",
+            "url": "https://www.heise.de/news/MagSafe-Ladeprobleme-mit-klassischen-Qi-Pads-7126041.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/5/2/0/2/2/Screen_Shot_2022-05-30_at_13.07.03-27ee9dd1b587eeaa.png",
+            "publishedAt": "2022-05-31T11:06:00Z",
+            "content": "Eigentlich ist Apples drahtlose Ladetechnik MagSafe, der mit dem iPhone 12 im Herbst 2020 eingeführt wurde, zum weltweit verwendeten Wireless-Charging-Standard Qi rückwärtskompatibel. Das heißt aller… [+2240 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Smartwatch market leader Apple ‘irreplaceable,’ but doesn’t lead premium segment",
+            "description": "It’s no surprise that Apple remains the smartwatch market leader by a considerable margin, according to the latest data, but what’s unusual is that the company doesn’t top the list in the premium smartwatch segment.\nAt the other end of the scale, Xiaomi is sh…",
+            "url": "https://9to5mac.com/2022/05/31/smartwatch-market-leader/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/Smartwatch-market-leader.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-05-31T11:27:29Z",
+            "content": "It’s no surprise that Apple remains the smartwatch market leader by a considerable margin, according to the latest data, but what’s unusual is that the company doesn’t top the list in the premium sma… [+3634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Kuo: Apple’s mixed reality headset unlikely to be announced at WWDC 2022",
+            "description": "Rumors about Apple’s mixed reality headset have been gaining traction in recent months, but the company’s plans on when this device will be announced remain unclear. Despite recent references to Apple’s new “realityOS” platform, the official announcement of t…",
+            "url": "https://9to5mac.com/2022/05/31/apple-headset-unlikely-to-be-announced-at-wwdc/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/05/Apple-AR-VR-headset-with-realityOS.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2022-05-31T07:19:57Z",
+            "content": "Rumors about Apple’s mixed reality headset have been gaining traction in recent months, but the company’s plans on when this device will be announced remain unclear. Despite recent references to Appl… [+2224 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Manuel Vonau",
+            "title": "A cheap and dumb smartwatch is everything I need from a wearable",
+            "description": "I don’t want a smartphone on my wrist; I just want a slightly more intelligent watch",
+            "url": "https://www.androidpolice.com/cheap-dumb-smartwatch-all-i-ever-need/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/06/09/Redmi-Watch-review-6-scaled.jpg",
+            "publishedAt": "2022-05-31T10:00:14Z",
+            "content": "While I’m eagerly awaiting the launch of the Pixel Watch, I’m not entirely sure if it’s really for me. Don’t get me wrong; I’m happy to see Google working on a proper first-party watch after leaving … [+4229 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Genbeta.com"
+            },
+            "author": "Bárbara Bécares",
+            "title": "DuckDuckGo y su total privacidad en tela de juicio: tiene un acuerdo con Microsoft que permite rastrear cierta información",
+            "description": "DuckDuckGo es un buscador y un navegador, móvil y de escritorio, cuyo principio fundamental (y su valor añadido en un mercado muy competitivo con gigantes de Internet presentes como Google o Microsoft) es que se ha creado enfocado en la privacidad. Pero un de…",
+            "url": "https://www.genbeta.com/actualidad/duckduckgo-su-total-privacidad-tela-juicio-tiene-acuerdo-microsoft-que-permite-rastrear-cierta-informacion",
+            "urlToImage": "https://i.blogs.es/e3b451/1366_2000/840_560.jpeg",
+            "publishedAt": "2022-05-31T08:00:21Z",
+            "content": "DuckDuckGo es un buscador y un navegador, móvil y de escritorio, cuyo principio fundamental (y su valor añadido en un mercado muy competitivo con gigantes de Internet presentes como Google o Microsof… [+5487 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "The Daily Beast",
+            "title": "Republicans Are Getting Really ‘Sick’ of Trump’s ‘Bitching’",
+            "description": "Photo Illustration by Luis G. Rendon/The Daily Beast/GettyIs former President Donald Trump’s hold on his Republican base waning? Vice’s senior political...",
+            "url": "https://www.thedailybeast.com/republicans-are-getting-really-sick-of-trumps-bitching?source=articles&via=rss",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/3LNMcnPKzUuxCB3WRaQlxg--~B/aD02NTg7dz0xMTcwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/thedailybeast.com/bc60ff4996dec26d929ecbbfdab40f7e",
+            "publishedAt": "2022-05-31T08:50:16Z",
+            "content": "Photo Illustration by Luis G. Rendon/The Daily Beast/Getty\r\nIs former President Donald Trumps hold on his Republican base waning? Vices senior political reporter Cameron Joseph thinks so.\r\nTrump is s… [+2231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Mike Wuerthele)",
+            "title": "BTS sets new Apple Music 1 record for biggest show",
+            "description": "Not even including after-air streams, K-Pop band BTS has established a new record for Apple Music 1 for its first episode of the band's origin story.In a Tweet on May 29, the Apple Music account announced that the BTS Army broke the previous record.#BTSARMY y…",
+            "url": "https://appleinsider.com/articles/22/05/31/bts-sets-new-apple-music-1-record-for-biggest-show",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/48609-94905-000-lead-BTS-xl.jpg",
+            "publishedAt": "2022-05-31T10:43:50Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Future Apple Watch could have a camera in the Digital Crown",
+            "description": "Apple has been researching how to fit a camera lens into an Apple Watch, and one proposal is to make it part of the familiar Digital Crown.Imagine pointing at someone and your Apple Watch taking a photograph without them knowing. That isn't creepy at all.You …",
+            "url": "https://appleinsider.com/articles/22/05/31/future-apple-watches-could-have-a-camera-in-the-digital-crown",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/48644-95003-000-lead-Watch-camera-d2-xl.jpg",
+            "publishedAt": "2022-05-31T11:28:52Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+3982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Restored Apple-1 autographed by Woz hitting the auction block",
+            "description": "A fully working Apple-1 computer from 1976 has been restored, and is expected to fetch $485,000 in an auction, in part because it has been autographed by Steve Wozniak.It's no longer rare for Apple-1 computers to be auctioned, or to sell for high bids, but th…",
+            "url": "https://appleinsider.com/articles/22/05/31/restored-apple-1-autographed-by-woz-hitting-the-auction-block",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/48649-95006-000-lead-Woz-xl.jpg",
+            "publishedAt": "2022-05-31T11:50:29Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (William Gallagher)",
+            "title": "Analyst doubts Apple will reveal AR headset at WWDC",
+            "description": "Ming-Chi Kuo cautions that Apple is unlikely to unveil its first Apple AR headset at WWDC, saying it would give time for rivals to copy the design before launch.There are rumors of hardware releases or announcements coming at WWDC every year, and close to eve…",
+            "url": "https://appleinsider.com/articles/22/05/31/analyst-doubts-apple-will-reveal-ar-headset-at-wwdc",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/48642-95001-000-lead-Apple-AR-xl.jpg",
+            "publishedAt": "2022-05-31T09:41:39Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Apple Maps tests updates in France, Monaco, New Zealand",
+            "description": "Apple has started to expand its updated Apple Maps experience into more countries, with testing of more detailed maps now available in France, Monaco, and New Zealand.Apple said in WWDC 2020 it intended to bring its improved Apple Maps into more countries, a …",
+            "url": "https://appleinsider.com/articles/22/05/31/apple-maps-tests-updates-in-france-monaco-new-zealand",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/48646-95002-france-map-changes-xl.jpg",
+            "publishedAt": "2022-05-31T10:46:31Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+1180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Malcolm Owen)",
+            "title": "Foxconn earnings forecast a good sign for Apple's embattled Chinese supply chain",
+            "description": "Apple's supply chain crunch in China may not be as bad as once feared, as assembly partner Foxconn offers an optimistic financial forecast for the rest of 2022.The supply chains of Apple and other companies centered in China are encountering production issues…",
+            "url": "https://appleinsider.com/articles/22/05/31/foxconn-earnings-forecast-a-good-sign-for-apples-embattled-chinese-supply-chain",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/48648-95005-48063-93885-47489-92695-000-lead-Tim-Cook-at-Foxconn-xl-xl-xl.jpg",
+            "publishedAt": "2022-05-31T11:26:14Z",
+            "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+2792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "ヤマダユウス型",
+            "title": "【ギズ屋台】地面にカバン置くの、なんかヤだよね。そんな時には変幻自在のバッグハンガー｢HEROCLIP｣",
+            "description": "ふと入った中華料理屋さん。席についたらカバンをしまう場所がなくて、しゃーなしで床に置いて、カバンについた汚れをあとで拭き取る…。そんな悲劇、経験したことがありませんか？\n\nやっぱり、カバンを地面に置きたくないのは普遍的な心理だと思うんですよ。そんなときにはカバンを吊るせるバッグハンガーが便利なのですが、ギズ屋台の新入荷アイテム｢HEROCLIP｣は、とっても便利な逸品なのです。",
+            "url": "https://www.gizmodo.jp/2022/05/re-hero-clip.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/05/30/220203heroclip_01-w960.jpeg",
+            "publishedAt": "2022-05-31T11:30:00Z",
+            "content": "202224\r\nHEROCLIP\r\nApple Pay, Google Pay, LINE Pay, , Paidy, \r\nHEROCLIPHEROCLIP LARGE\r\nS\r\n1\r\nHEROCLIP27kgHEROCLIP LARGE45kg\r\n2HERO CLIP\r\nHEROCLIPHEROCLIP\r\nHEROCLIPHEROCLIP LARGE2\r\nApple Pay, Google Pa… [+64 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Anh Phan",
+            "title": "Apple Plans continue de s’améliorer en France",
+            "description": "Apple continue de mettre à jour ses cartes et ses voitures parcourront toute la France cet été pour préparer l'arrivée de ses nouvelles cartes et de ses nouvelles fonctionnalités en France.\nApple Plans continue de s’améliorer en France",
+            "url": "https://www.journaldugeek.com/2022/05/31/apple-plans-continue-de-sameliorer-en-france/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/apple-plans-2-1500x888.png",
+            "publishedAt": "2022-05-31T08:05:20Z",
+            "content": "Apple continue de mettre à jour ses cartes et ses voitures parcourront toute la France cet été pour préparer l'arrivée de ses nouvelles cartes et de ses nouvelles fonctionnalités en France.Il y a enc… [+2454 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Tristan",
+            "title": "Cette coque d’iPad Mini 6 apporte une recharge proche de MagSafe",
+            "description": "MagSafe est arrivé il y a deux ans sur iPHone, mais la technologie de recharge sans fil se fait toujours attendre sur iPad. \nCette coque d’iPad Mini 6 apporte une recharge proche de MagSafe",
+            "url": "https://www.journaldugeek.com/2022/05/31/cette-coque-dipad-mini-6-apporte-une-recharge-proche-de-magsafe/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/pitaka-coque-iapd.jpg",
+            "publishedAt": "2022-05-31T08:30:19Z",
+            "content": "MagSafe est arrivé il y a deux ans sur iPHone, mais la technologie de recharge sans fil se fait toujours attendre sur iPad.Le 23 octobre 2020, alors que le monde se relève doucement de la pandémie, A… [+2458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Thomas Estimbre",
+            "title": "Roland-Garros : comment regarder le choc Nadal-Djokovic gratuitement ?",
+            "description": "Le quart de finale entre Novak Djokovic et Rafael Nadal aura lieu en nocturne ce mardi, en exclusivité sur Amazon Prime Video. Pas de panique, vous pouvez quand même voir ce choc au sommet même sans compte Amazon.\nRoland-Garros : comment regarder le choc Nada…",
+            "url": "https://www.journaldugeek.com/2022/05/31/roland-garros-comment-regarder-le-choc-nadal-djokovic-gratuitement/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/05/tennis-terre-battue.jpg",
+            "publishedAt": "2022-05-31T06:00:55Z",
+            "content": "Le quart de finale entre Novak Djokovic et Rafael Nadal aura lieu en nocturne ce mardi, en exclusivité sur Amazon Prime Video. Pas de panique, vous pouvez quand même voir ce choc au sommet même sans … [+2930 chars]"
+        }
+    ]
+}
